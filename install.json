@@ -1,15 +1,15 @@
 {
-  "version": "0.3.1",
+  "version": "0.3.2",
   "notes": "",
-  "pub_date": "2024-02-20T10:09:37Z",
+  "pub_date": "2024-02-21T06:30:21Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUenNzWDdkVWh5TVVvQ29DVFFaQmI0QnRHa2o3dHppM3YwaXZBbFZjYW9RaVZqTTBsdnB6ZkRkL3RVSVYzT1NNczcyekUyYW9wcEhPeGZhc3RnMzV2b2VOcWxJeG9PdkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA4NDIzNzQ0CWZpbGU6TWluZGtleS5hcHAudGFyLmd6CjE3Rmlka0g4b0RzRWJpNUEyMllFVFBxWW52bW4ydWQvb3IxOGRNSXNKdWdaR0pVV2xjRjVzeTNNZW1NYWlWZGplSm1OWWFGZE5tRExxSzA1RHdFbkFnPT0K",
-      "url": "https://github.com/Netis/mindkey-release/releases/download/0.3.1/Mindkey_0.3.1_darwin_x86_64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUenNzWDdkVWh5TVJvT0NlTk9BSWxwMWc0M1QzQkU3bzZMRWVrYVJzNllmeGFhQ3NlWkxZZUNTWCtqM01ML1pEU1BKQnRRMSt1QlVMbEdrRVdXZUVRYXVYTXhYTG91VUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA4NDk2ODYxCWZpbGU6TWluZGtleS5hcHAudGFyLmd6ClVPQ1pmRFJ2RFUvRDMzL29RdUlNUFdOTEFGWlQvS2x6NFVQbENpV1NGeVR6RFBqbGNrUTl1aXd6bXUwZUNFTDgva3ZUZkVibjRHbmYwOTllR0xydEFnPT0K",
+      "url": "https://github.com/Netis/mindkey-release/releases/download/0.3.2/Mindkey_0.3.2_darwin_x86_64.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUenNzWDdkVWh5TWQ5dzVYL3JpdnlES1N5cFRrSkJKbE5IL0NOd2pzTXM4dlZhOW9zYnd5WUhHWGlVYkZBdlNFSXFLZDgydHR2bFJoVFdCdTdnN2lURUpCV2ZpdkFIcHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA4NDIzMDY3CWZpbGU6TWluZGtleS5hcHAudGFyLmd6CjNpSDV3RVdKY2MzaDBKVmlWaE1xd0NnZFFselEyUU82WUwxTmlVMVAwVzlEckxkWnVLYnhNcXZ0NlpZeHlreDFRTTE4WlZXSVk0bHBpV01VKzNrTEFRPT0K",
-      "url": "https://github.com/Netis/mindkey-release/releases/download/0.3.1/Mindkey_0.3.1_darwin_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUenNzWDdkVWh5TVdTSnpmQVhUSDh6ZzZ2c3ZaUWxsUStNSis4dVF3bEh4SlJqd2o3clhqZlMzVjlJSDZ0ZTRTbVJGVEtKVXU4VCtEWC9wbnNBQlhzVFUzSTUway9iWFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA4NDk1OTAyCWZpbGU6TWluZGtleS5hcHAudGFyLmd6CjE3cTFmNmVkNWpMVEJIR09FTzJwbG9YbGFldHF4NS9mSjhZcWpGQ0dBUVRTRUZUM3JsTWpvMWYyc1ZCaGIwaVFKQW5JZ2g3RXFtajQ5dDJvdmhGeEJRPT0K",
+      "url": "https://github.com/Netis/mindkey-release/releases/download/0.3.2/Mindkey_0.3.2_darwin_aarch64.app.tar.gz"
     }
   }
 }
